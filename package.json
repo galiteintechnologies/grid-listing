@@ -1,0 +1,43 @@
+{
+  "name": "grid-component-react-ex",
+  "version": "1.11.5",
+  "main": "dist/GridComponent.jsx",
+  "module": "dist/GridComponent.jsx",
+  "scripts": {
+    "build": "webpack --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/galiteintechnologies/Grid-Component.git"
+  },
+  "author": "dev_at_galitein <galitein@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "css-loader": "^6.2.0",
+    "path": "^0.12.7",
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "style-loader": "^3.2.1",
+    "url-loader": "^4.1.1",
+    "webpack": "^4.5.0",
+    "webpack-cli": "^3.2.1"
+  },
+  "description": "Grid component with all functionality",
+  "keywords": [
+    "Table",
+    "layout.",
+    "Table",
+    "design"
+  ],
+  "dependencies": {},
+  "homepage": "https://github.com/galiteintechnologies/Grid-Component.git",
+  "bugs": {
+    "url": "https://github.com/galiteintechnologies/Grid-Component/issues"
+  }
+}
